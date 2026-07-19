@@ -10,6 +10,7 @@
 - **版本**：3.0
 - **运行环境**：Tampermonkey / Violentmonkey 等支持 `@grant` 的脚本管理器
 - **适用站点**：`steamcommunity.com` 下全部创意工坊相关页面
+![Uploading Steam 创意工坊脚本 · UI 预览 - [].png…]()
 
 ## 功能
 
